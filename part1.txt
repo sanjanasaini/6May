@@ -2,3 +2,4 @@ part 1 script for kgf
 hello 
 welcome
 bye
+hello 123
